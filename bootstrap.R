@@ -1,0 +1,12 @@
+install.packages(
+c(
+	"tidyverse",
+	"unbalanced",
+	"tree",
+	"party",
+	"caret",
+	"gmodels"
+),
+dependencies=TRUE,
+quiet=TRUE
+)
